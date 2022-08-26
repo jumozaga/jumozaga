@@ -1,10 +1,22 @@
-### Hi there 👋
-##### Perfil em construção....
+### Hello World! 👋 
+##### Dev in building...
+
 <img src="https://github-readme-stats.vercel.app/api?username=jumozaga&show_icons=true&theme=tokyonight"/>
 
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumozaga&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumozaga&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-### Contato
+
+ #### Languages || Technology:
+
+ 
+ #### Portifolio projects done: 
+ ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+ ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+ 
+
+### Contato | Contacting 
 
  <a href="https://www.bitbucket.com/jumozaga" alt="bitbucket" target="_blank">
 <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"> </a>
@@ -15,14 +27,10 @@
  <a href="https://www.linkedin.com/in/jumozaga" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   
- #### Alguns projetos práticos feito em:
- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
- ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
- 
+
  ![Profile View Counter](https://komarev.com/ghpvc/?username=jumozaga)
  
+<!--
  #### Em estudo... 
  
  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -40,7 +48,7 @@
  ![AWS](	https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
  ![Azure DevOPS](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
- 
+ -->
 
 <!--
 **jumozaga/jumozaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
