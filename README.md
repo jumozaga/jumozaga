@@ -42,8 +42,10 @@
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  -->
++ Tools
 
-
+<img width="45px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MCWzwHM-8DqltHuoBxaIbrcZeYeJ3ll7gA&usqp=CAU" /> <img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShehFlR0pUzqkSdXsVUav1e8wDftDvfR6fhQ&usqp=CAU?style=for_the_badge"/>
+<img width="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
 ### Contato | Contacting 📬 📨
 <a href="https://www.linkedin.com/in/jumozaga" alt="linkedin" target="_blank"><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
           
