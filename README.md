@@ -1,9 +1,9 @@
 ## Hello World! 👋 Welcome to my github
 #### Dev under building 👩🏽‍🎓👩🏽‍💻 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jumozaga&show_icons=true&theme=tokyonight"/>
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumozaga&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jumozaga&show_icons=true&theme=tokyonight"/>
+<!--https://github-readme-stats.vercel.app/api-->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumozaga&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 ### Languages || Technology:
  
