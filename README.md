@@ -1,8 +1,10 @@
-## Hello World! 👋 Welcome to my github
-#### Dev under building 👩🏽‍🎓👩🏽‍💻 
-
+## Hello World! 👋 Welcome to my github 
+####  Dev under building 👩🏽‍🎓👩🏽‍💻 
+#### Keep in touch  <a href="https://www.linkedin.com/in/jumozaga" alt="linkedin" target="_blank"><img height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<!-- 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jumozaga&show_icons=true&theme=tokyonight"/>
 <!--https://github-readme-stats.vercel.app/api-->
+
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumozaga&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 ### Languages || Technology:
@@ -13,8 +15,8 @@
  
  + Portifolio projects done:
  
- <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
- <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+ <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+
         
 <!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
  ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,7 +27,9 @@
  
 + In study and practice... 
 
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img width="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> <img  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
         
  <!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -42,12 +46,12 @@
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  -->
-+ Tools
+<!-- + Tools -->
 
-<img width="45px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MCWzwHM-8DqltHuoBxaIbrcZeYeJ3ll7gA&usqp=CAU" /> <img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShehFlR0pUzqkSdXsVUav1e8wDftDvfR6fhQ&usqp=CAU?style=for_the_badge"/>
-<img width="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
-### Contato | Contacting 📬 📨
-<a href="https://www.linkedin.com/in/jumozaga" alt="linkedin" target="_blank"><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<!-- <img width="45px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MCWzwHM-8DqltHuoBxaIbrcZeYeJ3ll7gA&usqp=CAU" /> <img width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShehFlR0pUzqkSdXsVUav1e8wDftDvfR6fhQ&usqp=CAU?style=for_the_badge"/> -->
+
+<!-- ### Contacting 📬 📨 -->
+
           
 <!--<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
@@ -56,7 +60,7 @@
   
   
  
- ![Profile View Counter](https://komarev.com/ghpvc/?username=jumozaga)
+<!--  ![Profile View Counter](https://komarev.com/ghpvc/?username=jumozaga) -->
  
  <!-- 
  FONTE PARA PEGAR BAGDES 
