@@ -1,22 +1,70 @@
-## Hello World! 👋 Welcome to my github 
-####  Dev under building 👩🏽‍🎓👩🏽‍💻 
-#### Keep in touch  <a href="https://www.linkedin.com/in/jumozaga" alt="linkedin" target="_blank"><img height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<!-- 
+<div align="center" >
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=483D8B)
+ 
+# Welcome to my github 👩🏽‍🎓👩🏽‍💻 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=7a66b5&vCenter=true&width=600&height=70&lines=Juliana+Mozaga+Neves;linkedin.com/in/jumozaga;Science+Computer+and+Math;Development+and+Engineer+Data)](https://git.io/typing-svg)
+
+
+#### Keep in touch  <a href="https://www.linkedin.com/in/jumozaga" alt="linkedin" target="_blank"><img height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
+
+ </div>
+ 
+<h2>Repositories made in</h2>
+<h3>Front-end</h3>
+<p align="left">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,tailwind" />
+  </a>
+</p>
+<h3>Back-end</h3>
+<p align="left">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,flask,nestjs" />
+  </a>
+</p>
+<h3>Banco de Dados</h3>
+<p align="left">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql" />
+  </a>
+</p>
+ <h2>Tools</h2>
+<p align="left">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,postman,vscode,bash,jenkins,docker" />
+  </a>
+</p>
+<h2>Other(Need practice-In study)</h2>
+<p align="left">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ruby,rails,aws,kubernetes" />
+  </a>
+</p>
+
+ 
+ <!-- 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jumozaga&show_icons=true&theme=tokyonight"/>
-<!--https://github-readme-stats.vercel.app/api-->
+<!--https://github-readme-stats.vercel.app/api
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumozaga&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
+-->
+
+
+
+
+<!-- 
 ### Languages || Technology:
- 
 + O.S.
  
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
- 
- + Portifolio projects done:
+--> 
+ <!-- + Portifolio projects done:
  
  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-
+-->
         
 <!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
  ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,11 +73,12 @@
  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
  -->
  
-+ In study and practice... 
 
+<!-- 
++ In study and practice...
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img width="50px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> <img  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> <img  height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> -->
         
  <!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -87,8 +136,6 @@
  ![AWS](	https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
  ![Azure DevOPS](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-
 CONTATO
  <a href="https://www.bitbucket.com/jumozaga" alt="bitbucket" target="_blank">
 <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"> </a>
@@ -110,3 +157,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=483D8B"/>
