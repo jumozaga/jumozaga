@@ -8,9 +8,10 @@
 
 
 #### Keep in touch  <a href="https://www.linkedin.com/in/jumozaga" alt="linkedin" target="_blank"><img height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
-
  </div>
- 
+ <div align="center">
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jumozaga&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 <h2>Repositories made in</h2>
 <h3>Front-end</h3>
 <p align="left">
@@ -42,8 +43,6 @@
     <img src="https://skillicons.dev/icons?i=java,ruby,rails,aws,kubernetes" />
   </a>
 </p>
-
- 
  <!-- 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jumozaga&show_icons=true&theme=tokyonight"/>
 <!--https://github-readme-stats.vercel.app/api
