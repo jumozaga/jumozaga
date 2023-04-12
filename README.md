@@ -25,10 +25,16 @@
     <img src="https://skillicons.dev/icons?i=python,django,flask,nestjs" />
   </a>
 </p>
-<h3>Banco de Dados</h3>
+<h3>Databases</h3>
 <p align="left">
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql" />
+  </a>
+</p>
+<h3>Code Challenge done</h3>
+<p align="left">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,ruby" />
   </a>
 </p>
  <h2>Tools</h2>
@@ -40,7 +46,7 @@
 <h2>Other(Need practice-In study)</h2>
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ruby,rails,aws,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=rails,aws,kubernetes" />
   </a>
 </p>
  <!-- 
