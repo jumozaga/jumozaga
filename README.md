@@ -16,37 +16,25 @@
 <h3>Front-end</h3>
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
   </a>
 </p>
 <h3>Back-end</h3>
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,nestjs" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,ts,nestjs,express,ruby" />
   </a>
 </p>
 <h3>Databases</h3>
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql" />
-  </a>
-</p>
-<h3>Code Challenge done</h3>
-<p align="left">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,ruby" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,sqlite" />
   </a>
 </p>
  <h2>Tools</h2>
 <p align="left">
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,postman,vscode,bash,jenkins,docker" />
-  </a>
-</p>
-<h2>Other(Need practice-In study)</h2>
-<p align="left">
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rails,aws,kubernetes" />
   </a>
 </p>
  <!-- 
