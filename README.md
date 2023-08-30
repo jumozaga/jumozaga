@@ -22,7 +22,7 @@
 <h3>Back-end</h3>
 <p align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,ts,nestjs,express,ruby" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask" />
   </a>
 </p>
 <h3>Databases</h3>
